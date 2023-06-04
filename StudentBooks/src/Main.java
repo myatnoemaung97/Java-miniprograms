@@ -13,9 +13,7 @@ public class Main {
         UserInterface ui = new UserInterface(scanner, booksTracker);
         ui.start();
 
-        /*Map<Student, Integer> map= new HashMap<>();
-        map.put(new Student("5"),0);
-        System.out.println(map.get(new Student("5")));*/
+        
 
     }
 }
