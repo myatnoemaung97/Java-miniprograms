@@ -1,2 +1,2 @@
-# Java-miniprojects
-Some small java projects based on exercises from MOOC
+# Java-miniprograms
+Some small java programs based on exercises from MOOC
